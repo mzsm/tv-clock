@@ -2,7 +2,7 @@
   "name": "tv-tokei",
   "productName": "tv-tokei",
   "version": "1.0.0",
-  "description": "テレビ画面の左上にいるあの時計です",
+  "description": "テレビ画面の左上にいるあの時計",
   "type": "module",
   "main": "./.vite/build/main.mjs",
   "scripts": {
